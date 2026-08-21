@@ -214,3 +214,19 @@ Week3_Statistical_Analysis_R/
 ├── Screenshots/
 ├── Report/
 └── README.md
+
+---
+
+Conclusion
+
+This project demonstrates a complete statistical analysis and predictive modeling workflow using R.
+
+The analysis combined statistical testing, exploratory analysis, logistic regression, cross-validation, confusion matrix evaluation, ROC-AUC analysis, and model diagnostics.
+
+The results demonstrate that logistic regression can achieve strong predictive performance on the selected dataset while maintaining relatively good interpretability.
+
+Author
+
+Vijay Kumar A G
+
+M.Tech – Data Science
